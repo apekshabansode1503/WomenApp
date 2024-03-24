@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "1051920620382",
+    "firebase_url": "https://pithos-cf828-default-rtdb.firebaseio.com",
+    "project_id": "pithos-cf828",
+    "storage_bucket": "pithos-cf828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051920620382:android:fa94826960bdffb51acdcf",
+        "android_client_info": {
+          "package_name": "com.example.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1_IyDPKGIvmo0It2sGIB-146a1MvZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051920620382:android:53ab24bcf23339231acdcf",
+        "android_client_info": {
+          "package_name": "com.guruprasad.firbase_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1_IyDPKGIvmo0It2sGIB-146a1MvZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051920620382:android:3033bd3d2b09104a1acdcf",
+        "android_client_info": {
+          "package_name": "com.guruprasad.pdfuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1_IyDPKGIvmo0It2sGIB-146a1MvZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051920620382:android:0f4f1abca30380781acdcf",
+        "android_client_info": {
+          "package_name": "com.guruprasad.pithos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1_IyDPKGIvmo0It2sGIB-146a1MvZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051920620382:android:89caeeda3d8b7c7c1acdcf",
+        "android_client_info": {
+          "package_name": "com.guruprasad.profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1_IyDPKGIvmo0It2sGIB-146a1MvZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051920620382:android:69818f5ffdc755ac1acdcf",
+        "android_client_info": {
+          "package_name": "com.omega.bluetoothchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1_IyDPKGIvmo0It2sGIB-146a1MvZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051920620382:android:420052bba67501e91acdcf",
+        "android_client_info": {
+          "package_name": "com.wallpaper.packageandmovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1_IyDPKGIvmo0It2sGIB-146a1MvZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051920620382-nhgd4m8svgadpeb84c4ga3qej19ird1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    android:id="@+id/layout"
+    android:layout_margin="10dp"
+    android:backgroundTint="@color/white"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Longitude : "
+                android:layout_margin="5dp"
+                android:layout_gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/longitude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="lon"
+                android:layout_gravity="center"
+                android:textSize="15sp"
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Latitude : "
+                android:layout_margin="5dp"
+                android:layout_gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/latitude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="lat"
+                android:layout_gravity="center"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/maps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/primary"
+            android:text="Open in Maps"
+            android:textStyle="bold"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

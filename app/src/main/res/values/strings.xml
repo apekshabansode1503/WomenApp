@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Women Safety</string>
+    <string name="emergency">Panic button</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="rules_amp_guidelines"><![CDATA[Guidelines]]></string>
+
+
+    <string name="guidelines_and_rules">Guidelines and Rules</string>
+    <string name="guideline">
+         <b>Here are some guidelines to follow for using our app safely:</b>\n\n
+• Always keep your emergency contacts updated.\n\n
+• Make sure your GPS location is enabled for accurate tracking.\n\n
+• Familiarize yourself with the panic button feature and how to use it in an emergency.\n\n
+• Review the safety tips provided in the app regularly.\n\n
+        If you feel unsafe, don\'t hesitate to reach out to your emergency contacts or local authorities.\n\n
+• Report any issues or concerns to our support team immediately.\n\n
+Stay safe and use the app responsibly!\n\n
+
+        <b>National Commission for Women (NCW) Helpline: 011-26942369, 011-26944754\n\n</b>
+        <b>All India Women\'s Conference (AIWC) Helpline: 011-24123164, 011-24124305\n\n</b>
+        <b>Women Helpline (Domestic Abuse): 181</b>
+</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="google_maps_key">AIzaSyBdN7ZrYgOkSY6Gjip5jssXfNxTGxXv0Og</string>
+
+
+</resources>
